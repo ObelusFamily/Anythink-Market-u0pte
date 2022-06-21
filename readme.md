@@ -10,4 +10,5 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-Realy?
+docker compose up
+docker-compose up
