@@ -7,7 +7,7 @@ const adminUser = {
   password: "123",
   role: "admin",
 };
-const fakeData = Array.from({ length: 100 }, () => ({
+const fakeData = Array.from({ length: 101 }, () => ({
   username: faker.name.findName().replaceAll(" ", "").replaceAll(".", ""),
   email: faker.internet.email(),
   password: "123",
